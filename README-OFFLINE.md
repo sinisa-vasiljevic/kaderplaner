@@ -1,4 +1,4 @@
-# Kaderplaner Version 64 Offline
+# Kaderplaner Version 64
 
 ## Änderungen
 - Schlichte Versionsanzeige: nur „Version 64“, ohne farbigen Hintergrund.
