@@ -1,13 +1,15 @@
-# Kaderplaner Version 72 Offline
+# Kaderplaner Version 73 Offline
 
-## Fehlerkorrekturen
-- „＋ Spieler“ funktioniert wieder zuverlässig.
-- Eine aktive Spielersuche wird beim Hinzufügen automatisch geleert.
-- Der neue Spieler wird sichtbar gemacht und das Namensfeld sofort fokussiert.
-- Robuste Spieler-ID-Erzeugung für Browser ohne `crypto.randomUUID()`.
-- Fehlende oder beschädigte Zählerstrukturen werden automatisch repariert.
-- Die fehlende `manifest.webmanifest` wurde ergänzt. Dadurch kann die Offline-PWA vollständig installiert und gecacht werden.
-- Offline-Cache auf Version 72 angehoben.
+## Änderungen in Version 73
+- Sichtbare Versionsanzeige auf Version 73 korrigiert.
+- „＋ Spieler“ funktioniert wieder zuverlässig und fokussiert den neuen Namen direkt.
+- WhatsApp-Spielkleidung verwendet die gewünschte optische Ausrichtung:
+  - Trikot: 5 Leerzeichen
+  - Hose: 6 Leerzeichen
+  - Stutzen: 1 Leerzeichen
+  - Torwart: 1 Leerzeichen
+- PWA-Manifest vollständig enthalten.
+- Offline-Cache auf Version 73 angehoben.
 
 ## Aktualisierung
-Alle Dateien bei GitHub ersetzen. Danach die App einmal mit Internet öffnen und neu laden, damit Version 72 und der neue Offline-Cache übernommen werden.
+Alle bisherigen GitHub-Dateien durch den vollständigen Inhalt dieser ZIP ersetzen. Danach die App einmal mit Internet öffnen und neu laden.
