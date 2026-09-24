@@ -1,9 +1,9 @@
-## Kaderplaner Version 67 Offline
+## Kaderplaner Version 68 Offline
 
-### Neu in Version 67
-- Alle Dienstauswahlen verwenden jetzt ein einheitliches eigenes Auswahlfenster.
-- Jeder Spieler wird immer zweizeilig dargestellt: Name oben, alle Dienstzähler darunter.
-- Die zweizeilige Darstellung gilt automatisch auch für später neu angelegte Dienste.
-- Lange Spielernamen und zusätzliche Zähler werden vollständig und übersichtlich dargestellt.
-- Export und Import sichern Spielernamen, alle Dienstzähler, eigene Dienste und aktuelle Zuordnungen.
-- Offlinefunktion, KP-Icons und alle bisherigen Funktionen bleiben erhalten.
+### Neu in Version 68
+- Das bisherige schwarze KP-Platzhalterlogo in der Kopfzeile wurde durch das grüne Kaderplaner-Icon ersetzt.
+- Das Icon wird auf großen Ansichten mit 80 x 80 Pixeln und auf dem iPhone mit 72 x 72 Pixeln dargestellt.
+- Die abgerundete Darstellung entspricht dem Homescreen-Icon und bleibt vollständig sichtbar.
+- Die zweizeiligen Dienstauswahllisten aus Version 67 bleiben vollständig erhalten.
+- Export und Import sichern weiterhin Spielernamen, alle Dienstzähler, eigene Dienste und aktuelle Zuordnungen.
+- Offlinefunktion und alle bisherigen Funktionen bleiben erhalten.
