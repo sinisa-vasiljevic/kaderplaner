@@ -1,8 +1,10 @@
-## Kaderplaner Version 70 Offline
+## Kaderplaner Version 71 Offline
 
-### Korrektur der mobilen Kopfzeile
-- Die unnötige zusätzliche Höhe unter der Kopfzeile wurde entfernt.
-- Die Zählerbox sitzt jetzt im freien rechten Bereich unterhalb des Titels.
-- Die Zählerbox bleibt vollständig innerhalb der Kopfkarte.
-- Das grüne KP-Icon bleibt unverändert.
-- Zweizeilige Dienstauswahl, Export, Import und Offlinefunktion bleiben vollständig erhalten.
+### Neu in Version 71
+- Die Unterzeile der Kopfzeile hat jetzt einen festen Umbruch nach „Flexible Spielerliste,“.
+- Der Zähler wurde weiter nach oben in den freien rechten Bereich verschoben.
+- Die mobile Kopfzeile wurde wieder kompakter und niedriger gestaltet.
+- In der WhatsApp-Ausgabe steht der zugeordnete Spieler jetzt unter dem jeweiligen Dienst.
+- Zwischen den einzelnen Diensten wird eine Leerzeile eingefügt.
+- Die Darstellung gilt automatisch auch für später neu angelegte Dienste.
+- Grünes KP-Icon, zweizeilige Dienstauswahl, Export, Import und Offlinefunktion bleiben erhalten.
