@@ -1,5 +1,5 @@
 'use strict';
-const CACHE_NAME='kaderplaner-v75-offline';
+const CACHE_NAME='kaderplaner-v77-offline';
 const CACHE_PREFIX='kaderplaner-';
 const APP_SHELL=['./index.html','./manifest.webmanifest','./apple-touch-icon.png','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil((async()=>{const cache=await caches.open(CACHE_NAME);const results=await Promise.allSettled(APP_SHELL.map(async path=>{const response=await fetch(path,{cache:'reload'});if(!response.ok)throw new Error(path+' HTTP '+response.status);await cache.put(path,response)}));if(results[0].status!=='fulfilled')throw results[0].reason;await self.skipWaiting()})())});

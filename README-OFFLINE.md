@@ -26,3 +26,7 @@
 4. Website einmal vollständig online in Safari öffnen.
 5. Neu zum Home-Bildschirm hinzufügen und einmal online starten.
 6. Anschließend im Flugmodus schließen und erneut öffnen.
+
+
+## Version 77
+- Heimspiel/Auswärtsspiel mit dynamischen Abfahrtsfeldern und passendem WhatsApp-Text.
