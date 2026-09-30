@@ -28,5 +28,17 @@
 6. Anschließend im Flugmodus schließen und erneut öffnen.
 
 
-## Version 77
-- Heimspiel/Auswärtsspiel mit dynamischen Abfahrtsfeldern und passendem WhatsApp-Text.
+## Version 78
+- Feste iPhone-Anordnung der Spielerauswahl: 3 / 2 / 2 Elemente.
+- Auswahl zwischen Heimspiel und Auswärtsspiel.
+- Treffpunkt für Abfahrt und Adresse für Abfahrt nur bei Auswärtsspielen sichtbar.
+- Spielart wird immer in den WhatsApp-Text übernommen.
+- Abfahrtsfelder erscheinen nur beim Auswärtsspiel im WhatsApp-Text.
+- Treffpunkt wurde in Treffpunkt am Spielort umbenannt.
+
+
+## Version 79
+- Aufbau direkt auf Version 78.
+- Abfahrtsfelder werden bei Heimspiel tatsächlich ausgeblendet.
+- Update-Hinweis mit Schaltfläche App neu starten wiederhergestellt.
+- Service Worker wartet auf Bestätigung und aktiviert die neue Version danach kontrolliert.
